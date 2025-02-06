@@ -66,7 +66,7 @@ const Handler = async (chatUpdate, sock, logger) => {
         const { isGroup, type, sender, from, body } = m;
         console.log(m);
 
-        const pluginDir = path.join(__dirname, '..', 'Sarkarorder');
+        const pluginDir = path.join(__dirname, '..', 'nexusorder');
         const pluginFiles = await fs.readdir(pluginDir);
 
         for (const file of pluginFiles) {
