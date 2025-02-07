@@ -1,12 +1,12 @@
 <p align="center">  
   <a href="https://files.catbox.moe/ktd1l4.jpg">
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/ktd1l4.jpg">
-    <h1 align="center"> Nexus-MD MADE BY Malvin King</h1>
+    <h1 align="center"> ɴᴇxᴜs ᴍᴅ ᴍᴀᴅᴀᴇ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ</h1>
   </a>
 </p>  
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Sarkar-MD-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/kingmalvn/Nexus-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Nexus-MD-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
   
 </p>
@@ -17,21 +17,6 @@ FORK THE REPOSITORY (Repo)
 
 
   ***
-
-<a href="null" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</p>
-<p align="center">
-<a href="https://github.com/Sarkar-Bandaheali"><img title="Author" src="https://img.shields.io/badge/Sarkar-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923253617422"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Sarkar-Bandaheali?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?label=Followers&style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?&style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sarkar-Bandaheali/Sarkar-MD?label=Watching&style=social"></a>
-</p>></a>                     
-
-   <h1 align="center"                  
 
 
 
@@ -47,7 +32,7 @@ FORK THE REPOSITORY (Repo)
 
   ♻️DEPLOY NORMAL BOT ✅*[ HEROKU ]*
 <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Sarkar-Bandaheali/Sarkar-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/Nexus-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 ***
 
 ⭕  DEPLOY ON [ RENDER ]
@@ -59,7 +44,13 @@ FORK THE REPOSITORY (Repo)
 
 ⭕  DEPLOY ON [ Panel ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://toystack.ai)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://bot-hosting.net/?aff=1231885228566646795)
+
+
+⭕  DEPLOY ON [ Panel 2 ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://dashboard.katabump.com/auth/login#5db6cb)
+
 
 ♻️CREATE ACCOUNT ✅  
 <br>
@@ -68,14 +59,19 @@ FORK THE REPOSITORY (Repo)
 </a>
 
 ♻️DEPLOY TO [KOYEB] ✅  
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=sarkar-md&type=git&repository=Sarkar-Bandaheali%2FSarkar-MD&branch=main&builder=buildpack&env%5BSESSION_ID%5D=&ports=8000%3Bhttp%3B%2F)
- # 😈 Sarkar-MD INFO
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=nexus-md&type=git&repository=king.alvn%2FNexus-MD&branch=main&builder=buildpack&env%5BSESSION_ID%5D=&ports=8000%3Bhttp%3B%2F)
+
+
+ # 😈 Nexus-MD INFO
+ 
 ***
 ## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ // Whatsapp group
-<a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z" target="_blank">
     <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://chat.whatsapp.com/IZ08OuI8pqV2RbTrDvlQk3" target="_blank">
+<a href="https://chat.whatsapp.com/IVVhfV9ULdW250HRqKpiNe" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -85,8 +81,8 @@ FORK THE REPOSITORY (Repo)
 
 ``` SESSION_ID=YOUR SESSION ID
 MODE=public
-OWNER_NUMBER=923253617422
-OWNER_NAME=BANDAHEALI
+OWNER_NUMBER=263714757857
+OWNER_NAME=ᴍᴀʟᴠɪɴ ᴋɪɴɢ
 SESSION_ID= ADD YOUR SESSION HERE
 ``` 
 <h2>STEP 1 : COPY UNDER WORKFLOW DEPLOYEMNT CODE</h2><br>

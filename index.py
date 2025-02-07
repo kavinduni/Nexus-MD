@@ -60973,10 +60973,10 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+Author             : Sir Malvin King
+contact            : nexusxd.bot@gmail.com
+Github             : https://github.com/kingmalvn 
+my youtube channel : Youtube.com/@malvintech2
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
